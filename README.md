@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 This is my first React Mini Project 🎉🎉
 
+![image](https://github.com/user-attachments/assets/861ec0b3-3bb5-4298-88b3-6d0a493cefbc)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
