@@ -25,7 +25,7 @@ export const TodoWrapper = (props) => {
 
   return (
     <div className='TodoWrapper'>
-        <h1>TO DO LIST</h1>
+        <h1>Task Manager</h1>
     <TodoForm addTodos={addTodos} />
 
     {todos.map((todo)=>(
